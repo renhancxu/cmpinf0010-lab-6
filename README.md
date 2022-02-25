@@ -8,8 +8,8 @@ To use it, run `python DoSomethingRenhan.py` in the command line, enter your nam
 
 To contribute to the repository, enter `git clone https://github.com/renhancxu/cmpinf0010-lab-6.git` into the command line.
 After making your contributions, enter the following commands to push the contribution back to the cloud.
-`git add .`
-`git commit -m "your commit message"`
-`git push origin main`
+`git add .`<br>
+`git commit -m "your commit message"`<br>
+`git push origin main`<br>
 
 Please also read LICENSE.md and CODE-OF-CONDUCT.md.
