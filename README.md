@@ -12,4 +12,4 @@ After making your contributions, enter the following commands to push the contri
 `git commit -m "your commit message"`<br>
 `git push origin main`<br>
 
-Please also read LICENSE.md and CODE-OF-CONDUCT.md.
+Please also read LICENSE.md and CODE-OF-CONDUCT.md in this repository.
